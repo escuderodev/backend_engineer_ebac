@@ -5,12 +5,14 @@ public class Cliente {
     private String nome;
     private String endereco;
 
+//    construtor
     public Cliente(int codigo, String nome, String endereco) {
         this.codigo = codigo;
         this.nome = nome;
         this.endereco = endereco;
     }
 
+//getters e setters
     public int getCodigo() {
         return codigo;
     }
@@ -33,5 +35,11 @@ public class Cliente {
 
     public void setEndereco(String endereco) {
         this.endereco = endereco;
+    }
+
+//    metodo para imprimir endereço
+    public void imprimeEndereco() {
+
+        System.out.println("Endereço: " + this.endereco);
     }
 }

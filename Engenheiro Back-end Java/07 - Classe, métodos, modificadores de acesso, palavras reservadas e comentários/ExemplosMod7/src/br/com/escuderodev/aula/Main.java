@@ -7,7 +7,7 @@ public class Main {
         Cliente primeiroCliente = new Cliente(1,"Eduardo Escudero", "Rua Cristiano Lobe, 169 Apto 22B");
 
         System.out.println("Cliente " + primeiroCliente.getCodigo() + " - " + primeiroCliente.getNome());
-        System.out.println("Endereço: " + primeiroCliente.getEndereco());
+//        System.out.println("Endereço: " + primeiroCliente.getEndereco());
+        primeiroCliente.imprimeEndereco();
     }
-
 }
