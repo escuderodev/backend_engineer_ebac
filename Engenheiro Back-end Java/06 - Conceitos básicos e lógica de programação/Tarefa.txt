@@ -1,0 +1,29 @@
+=== Programação Procedural X Orientada a Objetos ===
+Procedural:
+Na Programação Procedural o código é escrito em um arquivo único, bem como executado linha por linha como uma sequência de procedimentos, dificultando a leitura e manutenção do código.
+
+Orientada a Objetos:
+Como o próprio nome diz, Programação Orientada a Objetos ter por objetivo abstrair elementos do mundo real para dentro do nosso código a fim de permitir uma melhor leitura e manutenção do código, bem como sua reutilização.
+Ex.:
+Quando pensamos em um sistema bancário, podemos criar uma classe mãe chamada Conta que possuirá a expecificação básica e comum a todos os tipos de conta. Essas especificações chamamos de atributos como (agência, número, saldo e titular) e funcionalidade como (depositar, sacar e transferir). Depois criamos outras duas classes filhas, ContaCorente e ContaPoupança que herdarão de Conta os atributos básicos e poderão, cada uma, umplementar novos atributos e funcionalidades conforme a necessidade. 
+
+=== Portugol - Hora de Acordar ===
+- abrir o olha;
+- despreguiçar;
+- sentar na cama;
+- levantar;
+- sair do quarto;
+- entrar no banheiro;
+- pegar a escova de dentes;
+- colocar pasta;
+- escovar os dentes;
+- lavar e guardar a escova de dente;
+- lavar a boca;
+- sair do banheiro;
+- preparar o café da manhã;
+- sentar à mesa;
+- tomar café da manhã;
+
+
+
+
