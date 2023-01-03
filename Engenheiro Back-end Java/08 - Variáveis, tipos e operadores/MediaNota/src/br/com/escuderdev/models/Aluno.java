@@ -1,5 +1,8 @@
 package br.com.escuderdev.models;
 
+/**
+ * @author escuderodev
+ */
 public class Aluno {
 
     private int primeiroBimestre = 8;
