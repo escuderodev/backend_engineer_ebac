@@ -1,4 +1,9 @@
 package br.com.escuderodev.aula;
+/*
+@author escuderodev
+
+@version 1.0
+ */
 
 public class Cliente {
     private int codigo;
@@ -25,6 +30,10 @@ public class Cliente {
         return nome;
     }
 
+    /**
+     *
+     * @param nome
+     */
     public void setNome(String nome) {
         this.nome = nome;
     }
