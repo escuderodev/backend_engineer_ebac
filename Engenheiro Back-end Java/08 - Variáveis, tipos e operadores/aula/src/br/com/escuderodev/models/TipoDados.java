@@ -28,7 +28,7 @@ public class TipoDados {
     }
 
     public double numeroDouble() {
-        return 18;
+        return 18f;
     }
 
     public float numeroFloat() {
