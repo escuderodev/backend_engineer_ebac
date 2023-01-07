@@ -11,7 +11,7 @@ public class Main {
         List<Aluno> masculino = new ArrayList<>();
         Scanner scan = new Scanner(System.in);
 
-        for (int i = 0; i < 4; i++) {
+        for (int i = 0; i < 6; i++) {
             String nomeDigitado;
             String sexoDigitado;
 
