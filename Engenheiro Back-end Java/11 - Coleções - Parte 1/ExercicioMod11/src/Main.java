@@ -16,9 +16,9 @@ public class Main {
             String sexoDigitado;
 
 //            coleta dados do usuário
-            System.out.print("Digite o nome: ");
+            System.out.print("Digite o primeiro nome: ");
             nomeDigitado = scan.next();
-            System.out.print("Digite o sexo: ");
+            System.out.print("Digite o sexo [m ou f]: ");
             sexoDigitado = scan.next();
             Aluno aluno = new Aluno(nomeDigitado, sexoDigitado);
 
