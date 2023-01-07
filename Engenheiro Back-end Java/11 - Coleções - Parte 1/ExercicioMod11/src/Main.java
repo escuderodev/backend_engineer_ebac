@@ -31,6 +31,7 @@ public class Main {
                 System.out.println("Sexo digitado é inválido!");
             }
         }
+        System.out.println("");
         System.out.println("Feminino:  " + feminino);
         System.out.println("Masculino: " + masculino);
     }

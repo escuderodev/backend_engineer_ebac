@@ -36,7 +36,7 @@ public class Aluno implements Comparable<Aluno> {
 
     @Override
     public String toString() {
-        return this.nome + " " + this.sexo;
+        return this.nome;
     }
 
 }
