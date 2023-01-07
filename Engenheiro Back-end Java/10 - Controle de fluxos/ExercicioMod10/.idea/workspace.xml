@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ae37b7c-f68d-46b7-bc08-511a8df6c31b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/escuderodev/aula/DoWhile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/escuderodev/aula/Equals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/escuderodev/aula/For.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/escuderodev/aula/ForBreak.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/escuderodev/aula/ForContinue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/escuderodev/aula/ForEach.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/escuderodev/aula/IfElse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/escuderodev/aula/SwitchCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/escuderodev/aula/Tabuada.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/escuderodev/aula/While.java" beforeDir="false" />
+    <list default="true" id="2ae37b7c-f68d-46b7-bc08-511a8df6c31b" name="Changes" comment="exercicio mod 10">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +38,25 @@
       <option name="presentableId" value="Default" />
       <updated>1673028745365</updated>
     </task>
+    <task id="LOCAL-00001" summary="exercicio mod 10">
+      <created>1673029450118</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673029450119</updated>
+    </task>
+    <task id="LOCAL-00002" summary="exercicio mod 10">
+      <created>1673029489864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673029489864</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exercicio mod 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicio mod 10" />
   </component>
 </project>
