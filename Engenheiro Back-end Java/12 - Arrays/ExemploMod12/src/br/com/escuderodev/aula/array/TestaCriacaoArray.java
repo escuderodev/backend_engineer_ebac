@@ -18,6 +18,8 @@ public class TestaCriacaoArray {
         for (int i = 0; i < numeros.length; i++) {
             System.out.print(numeros[i] + " ");
         }
+        System.out.println("");
+        System.out.println(numeros[2]);
     }
 
 }
