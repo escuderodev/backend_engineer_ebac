@@ -9,6 +9,7 @@ public class Parte1 {
         String nomesDigitados;
         String[] nomes = new String[4];
 
+        System.out.println("********************* Exercício - Parte 1 *********************");
         System.out.print("Digite 4 nomes separados por , : ");
         nomesDigitados = scan.next();
         nomes = nomesDigitados.split(",");

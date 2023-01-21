@@ -8,6 +8,7 @@ public class Parte2 {
         String[] masculino = new String[4];
         String[] feminino = new String[4];
 
+        System.out.println("********************* Exercício - Parte 2 *********************");
         System.out.print("Digite o nome e o gênero de 4 pessoas separados por - e , : ");
         nomesDigitados = scan.next();
         nomes = nomesDigitados.split(",");
