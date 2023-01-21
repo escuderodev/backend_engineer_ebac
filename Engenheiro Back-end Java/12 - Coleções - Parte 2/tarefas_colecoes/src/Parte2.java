@@ -21,13 +21,13 @@ public class Parte2 {
             }
         }
 
-        System.out.println("Imprimindo pessoas do sexo masculino:");
+        System.out.println("\nImprimindo pessoas do sexo masculino:");
         for (int i = 0; i < masculino.length; i++){
             if (masculino[i] != null)
             System.out.println(masculino[i]);
         }
 
-        System.out.println("Imprimindo pessoas do sexo feminino:");
+        System.out.println("\nImprimindo pessoas do sexo feminino:");
         for (int i = 0; i < masculino.length; i++){
             if (feminino[i] != null) {
                 System.out.println(feminino[i]);
