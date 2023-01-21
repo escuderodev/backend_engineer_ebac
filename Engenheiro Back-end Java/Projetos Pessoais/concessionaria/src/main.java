@@ -46,6 +46,7 @@ public class main {
         for (int i = 0; i < veiculo.size(); i++) {
             System.out.println(veiculo.get(i).getMarca() + " " + veiculo.get(i).getModelo() + " " + veiculo.get(i).getAno());
         }
+
     }
 
 }

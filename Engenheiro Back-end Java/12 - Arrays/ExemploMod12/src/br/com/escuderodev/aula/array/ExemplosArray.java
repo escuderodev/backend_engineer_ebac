@@ -19,7 +19,7 @@ public class ExemplosArray {
         nomes[2] = "Pires2";
         nomes[3] = "Pires3";
         for (String nome : nomes) {
-            System.out.println(nome);
+             System.out.println(nome);
         }
     }
 
