@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8f4a3b7-c5ca-44e1-8f26-199e2bb2a9c5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/07 - Classe, métodos, modificadores de acesso, palavras reservadas e comentários/ExemplosMod7/ExemplosMod7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 - Classe, métodos, modificadores de acesso, palavras reservadas e comentários/projeto/projeto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08 - Variáveis, tipos e operadores/MediaNota/MediaNota.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08 - Variáveis, tipos e operadores/aula/aula.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Tipos complexos, boxing (autoboxing), unboxing e casting/ExemplosMod9/ExemplosMod9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Tipos complexos, boxing (autoboxing), unboxing e casting/ExercicioMod9/ExercicioMod9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 - Controle de fluxos/ExercicioMod10/ExercicioMod10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11 - Coleções - Parte 1/ExemploMod11/ExemploMod11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11 - Coleções - Parte 1/ExercicioMod11/ExercicioMod11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12 - Coleções - Parte 2/ExemploMod12/ExemploMod12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 - Coleções/Interfaces/Interfaces.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 - Coleções/agragacao_composicao/agragacao_composicao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 - Coleções/heranca/heranca.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14 - Projeto 1 - Cadastro de Clientes/Cadastro_Cliente/Cadastro_Cliente.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14 - Projeto 1 - Cadastro de Clientes/Loja/Loja.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/15 - Design Patterns.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/ProjetoAbstractFactory.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/out/production/ProjetoAbstractFactory/Sistema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/out/production/ProjetoAbstractFactory/br/com/escuderodev/domain/AlugaCarroExecutivo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/out/production/ProjetoAbstractFactory/br/com/escuderodev/domain/AlugaCarroPopular.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/out/production/ProjetoAbstractFactory/br/com/escuderodev/domain/Azera.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/out/production/ProjetoAbstractFactory/br/com/escuderodev/domain/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/out/production/ProjetoAbstractFactory/br/com/escuderodev/domain/Civic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/out/production/ProjetoAbstractFactory/br/com/escuderodev/domain/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/out/production/ProjetoAbstractFactory/br/com/escuderodev/domain/Gol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/out/production/ProjetoAbstractFactory/br/com/escuderodev/domain/LocadoraDeCarro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/out/production/ProjetoAbstractFactory/br/com/escuderodev/domain/Voyage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/src/Sistema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/src/br/com/escuderodev/domain/AlugaCarroExecutivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/src/br/com/escuderodev/domain/AlugaCarroPopular.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/src/br/com/escuderodev/domain/Azera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/src/br/com/escuderodev/domain/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/src/br/com/escuderodev/domain/Civic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/src/br/com/escuderodev/domain/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/src/br/com/escuderodev/domain/Gol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/src/br/com/escuderodev/domain/LocadoraDeCarro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 - Design Patterns/ProjetoAbstractFactory/src/br/com/escuderodev/domain/Voyage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projetos Pessoais/concessionaria/concessionaria.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2LZBnzl4iI40StymyKQYfd8gt2W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/escud/OneDrive/Documentos/GitHub/backend_engineer_ebac/Engenheiro Back-end Java/15 - Design Patterns"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8f4a3b7-c5ca-44e1-8f26-199e2bb2a9c5" name="Changes" comment="" />
+      <created>1676068896033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676068896033</updated>
+    </task>
+    <servers />
+  </component>
+</project>

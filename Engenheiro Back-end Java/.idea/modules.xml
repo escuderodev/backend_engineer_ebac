@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/04 - Configurando a IDE/04 - Configurando a IDE.iml" filepath="$PROJECT_DIR$/04 - Configurando a IDE/04 - Configurando a IDE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15 - Design Patterns/15 - Design Patterns.iml" filepath="$PROJECT_DIR$/15 - Design Patterns/15 - Design Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14 - Projeto 1 - Cadastro de Clientes/Cadastro_Cliente/Cadastro_Cliente.iml" filepath="$PROJECT_DIR$/14 - Projeto 1 - Cadastro de Clientes/Cadastro_Cliente/Cadastro_Cliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos Pessoais/Cadastro_Cliente/Cadastro_Cliente1.iml" filepath="$PROJECT_DIR$/Projetos Pessoais/Cadastro_Cliente/Cadastro_Cliente1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Engenheiro Back-end Java.iml" filepath="$PROJECT_DIR$/Engenheiro Back-end Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 - Controle de fluxos/ExemploMod10/ExemploMod10.iml" filepath="$PROJECT_DIR$/10 - Controle de fluxos/ExemploMod10/ExemploMod10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 - Coleções - Parte 1/ExemploMod11/ExemploMod11.iml" filepath="$PROJECT_DIR$/11 - Coleções - Parte 1/ExemploMod11/ExemploMod11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12 - Coleções - Parte 2/ExemploMod12/ExemploMod12.iml" filepath="$PROJECT_DIR$/12 - Coleções - Parte 2/ExemploMod12/ExemploMod12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 - Classe, métodos, modificadores de acesso, palavras reservadas e comentários/ExemplosMod7/ExemplosMod7.iml" filepath="$PROJECT_DIR$/07 - Classe, métodos, modificadores de acesso, palavras reservadas e comentários/ExemplosMod7/ExemplosMod7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 - Tipos complexos, boxing (autoboxing), unboxing e casting/ExemplosMod9/ExemplosMod9.iml" filepath="$PROJECT_DIR$/09 - Tipos complexos, boxing (autoboxing), unboxing e casting/ExemplosMod9/ExemplosMod9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 - Controle de fluxos/ExercicioMod10/ExercicioMod10.iml" filepath="$PROJECT_DIR$/10 - Controle de fluxos/ExercicioMod10/ExercicioMod10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 - Coleções - Parte 1/ExercicioMod11/ExercicioMod11.iml" filepath="$PROJECT_DIR$/11 - Coleções - Parte 1/ExercicioMod11/ExercicioMod11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13 - Coleções/ExercicioMod13/ExercicioMod13.iml" filepath="$PROJECT_DIR$/13 - Coleções/ExercicioMod13/ExercicioMod13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 - Tipos complexos, boxing (autoboxing), unboxing e casting/ExercicioMod9/ExercicioMod9.iml" filepath="$PROJECT_DIR$/09 - Tipos complexos, boxing (autoboxing), unboxing e casting/ExercicioMod9/ExercicioMod9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13 - Coleções/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/13 - Coleções/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14 - Projeto 1 - Cadastro de Clientes/Loja/Loja.iml" filepath="$PROJECT_DIR$/14 - Projeto 1 - Cadastro de Clientes/Loja/Loja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 - Variáveis, tipos e operadores/MediaNota/MediaNota.iml" filepath="$PROJECT_DIR$/08 - Variáveis, tipos e operadores/MediaNota/MediaNota.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13 - Coleções/agragacao_composicao/agragacao_composicao.iml" filepath="$PROJECT_DIR$/13 - Coleções/agragacao_composicao/agragacao_composicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 - Variáveis, tipos e operadores/aula/aula.iml" filepath="$PROJECT_DIR$/08 - Variáveis, tipos e operadores/aula/aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos Pessoais/concessionaria/concessionaria.iml" filepath="$PROJECT_DIR$/Projetos Pessoais/concessionaria/concessionaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13 - Coleções/heranca/heranca.iml" filepath="$PROJECT_DIR$/13 - Coleções/heranca/heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 - Classe, métodos, modificadores de acesso, palavras reservadas e comentários/projeto/projeto.iml" filepath="$PROJECT_DIR$/07 - Classe, métodos, modificadores de acesso, palavras reservadas e comentários/projeto/projeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12 - Coleções - Parte 2/tarefas_colecoes/tarefas_colecoes.iml" filepath="$PROJECT_DIR$/12 - Coleções - Parte 2/tarefas_colecoes/tarefas_colecoes.iml" />
+    </modules>
+  </component>
+</project>
