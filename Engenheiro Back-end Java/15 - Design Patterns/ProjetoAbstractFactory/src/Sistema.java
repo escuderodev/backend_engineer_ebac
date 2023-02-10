@@ -1,5 +1,4 @@
 import br.com.escuderodev.domain.*;
-
 public class Sistema {
     public static void main(String[] args) {
         Cliente cliente = new Cliente("A", true);
