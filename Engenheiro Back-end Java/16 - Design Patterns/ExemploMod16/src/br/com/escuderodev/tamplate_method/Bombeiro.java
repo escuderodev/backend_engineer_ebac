@@ -5,4 +5,9 @@ public class Bombeiro extends Trabalhador {
     protected void trabalhar() {
         System.out.println("Apagando incêncio...");
     }
+
+    @Override
+    protected void levantar() {
+        System.out.println("Lenvantando da cama às 6 hr.");
+    }
 }
