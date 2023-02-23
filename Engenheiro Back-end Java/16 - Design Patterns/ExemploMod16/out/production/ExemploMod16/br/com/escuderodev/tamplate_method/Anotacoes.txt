@@ -1,6 +1,0 @@
-==== Tamplate Method ====
-- utiliza Herença de Classe Absttrata;
-- Herda métodos da classe super;
-- permite implementar métodos expecíficos (abstract);
-- permite subescrever métodos (protected ou public);
-- permite a reutilização de código e facilita a sua manutenção;
