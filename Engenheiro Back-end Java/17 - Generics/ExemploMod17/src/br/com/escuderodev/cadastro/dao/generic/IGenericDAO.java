@@ -9,7 +9,7 @@ public interface IGenericDAO <T extends Persistence> {
     public Boolean cadastrar(T entity);
     public void excluir(Long key);
     public void alterar(T entity);
-    public Produto consultar(Long key);
+    public T consultar(Long key);
     public Collection<T> buscarTodos();
 
 }

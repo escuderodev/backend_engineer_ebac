@@ -1,5 +1,6 @@
 package br.com.escuderodev.cadastro.dao.generic;
 
+import br.com.escuderodev.cadastro.domain.Cliente;
 import br.com.escuderodev.cadastro.domain.Persistence;
 import br.com.escuderodev.cadastro.domain.Produto;
 
@@ -9,15 +10,27 @@ import java.util.Map;
 
 public abstract class GenericDAO<T extends Persistence> implements IGenericDAO<T> {
 
-    private Map<Class, Map<Long, T>> map;
+    protected Map<Class, Map<Long, T>> map;
+
+    public abstract Class<T> getClassType();
 
     public GenericDAO() {
         this.map = new HashMap<>();
+        Map<Long, T> internalMap = this.map.get(getClassType());
+        if (internalMap == null) {
+            internalMap = new HashMap<>();
+            this.map.put(getClassType(), internalMap);
+        }
     }
 
     @Override
     public Boolean cadastrar(T entity) {
-        return null;
+        Map<Long, T> internalMap = this.map.get(getClassType());
+        if (internalMap.containsKey(entity.getKey())) {
+            return false;
+        }
+        internalMap.put(entity.getKey(), entity);
+        return true;
     }
 
     @Override
@@ -31,7 +44,7 @@ public abstract class GenericDAO<T extends Persistence> implements IGenericDAO<T
     }
 
     @Override
-    public Produto consultar(Long key) {
+    public T consultar(Long key) {
         return null;
     }
 

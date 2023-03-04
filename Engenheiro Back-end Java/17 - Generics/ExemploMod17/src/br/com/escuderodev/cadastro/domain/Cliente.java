@@ -102,4 +102,8 @@ public class Cliente implements Persistence {
         return "Cliente [nome: " + nome + ", CPF: " + cpf + ", Telefone: " + tel + ", Endereço: " + endereco + ", Nº: " + numero + ", Cidade: " + cidade + ", UF: " + estado + "]";
     }
 
+    @Override
+    public Long getKey() {
+        return this.cpf;
+    }
 }

@@ -19,4 +19,9 @@ public class Produto implements Persistence {
     public void setNome(String nome) {
         this.nome = nome;
     }
+
+    @Override
+    public Long getKey() {
+        return this.codigo;
+    }
 }
