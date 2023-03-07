@@ -6,19 +6,6 @@ import java.util.List;
 public class ExemploJavaGenerics {
 
     public static void main(String[] args) {
-//        List<String> listaString = new ArrayList<>();
-//        listaString.add("Eduardo");
-//        listaString.add("Carol");
-//        System.out.println("\nlistaString");
-//        imprimir(listaString);
-//        System.out.println("Primeiro da lista: " + pegarPrimeiroDaLista(listaString));
-//
-//        List<Long> listaLong = new ArrayList<>();
-//        listaLong.add(1L);
-//        listaLong.add(2L);
-//        System.out.println("\nlistaLong");
-//        imprimir(listaLong);
-//        System.out.println("Primeiro da lista: " + pegarPrimeiroDaLista(listaLong));
 
         List<Fruta> listaFruta = new ArrayList<>();
         listaFruta.add(new Maça());
